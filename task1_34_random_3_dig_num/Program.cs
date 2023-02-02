@@ -19,20 +19,20 @@ void PrintArray(int[] arr)  // Выводит на печать заданный
 }
 
 
-int CountPositiveElements (int [] arr)  // Подсчитывает количество четных чисел в массиве 
+int CountEvenElements (int [] arr)  // Подсчитывает количество четных чисел в массиве 
 {
-int CountPositiveElements = 0;
+int CountEvenElements = 0;
 for (int i = 0; i < arr.Length; i++)
 {
     if(arr[i] % 2 == 0)
     {
-        CountPositiveElements = CountPositiveElements + 1;
+        CountEvenElements = CountEvenElements + 1;
     }
 }
-return CountPositiveElements;
+return CountEvenElements;
 }
 
 int[] array = FillArrayWithRandomNumbers(10, 100, 999);
 PrintArray(array);
-int count = CountPositiveElements(array);
+int count = CountEvenElements(array);
 System.Console.WriteLine($"количество чётных чисел в массиве: {count}");
