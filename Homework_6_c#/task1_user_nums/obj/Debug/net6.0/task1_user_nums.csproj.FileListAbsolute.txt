@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\task1_user_nums.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\task1_user_nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\task1_user_nums.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\task1_user_nums.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\task1_user_nums.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\bin\Debug\net6.0\task1_user_nums.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\bin\Debug\net6.0\task1_user_nums.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\bin\Debug\net6.0\task1_user_nums.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\bin\Debug\net6.0\task1_user_nums.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\bin\Debug\net6.0\task1_user_nums.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\task1_user_nums.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\refint\task1_user_nums.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\task1_user_nums.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\task1_user_nums.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task1_user_nums\obj\Debug\net6.0\ref\task1_user_nums.dll

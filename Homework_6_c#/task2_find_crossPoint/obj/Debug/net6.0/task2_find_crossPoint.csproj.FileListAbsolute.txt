@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\bin\Debug\net6.0\task2_find_crossPoint.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\bin\Debug\net6.0\task2_find_crossPoint.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\bin\Debug\net6.0\task2_find_crossPoint.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\bin\Debug\net6.0\task2_find_crossPoint.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\bin\Debug\net6.0\task2_find_crossPoint.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\task2_find_crossPoint.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\task2_find_crossPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\task2_find_crossPoint.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\task2_find_crossPoint.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\task2_find_crossPoint.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\task2_find_crossPoint.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\refint\task2_find_crossPoint.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\task2_find_crossPoint.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\task2_find_crossPoint.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_6_c#\task2_find_crossPoint\obj\Debug\net6.0\ref\task2_find_crossPoint.dll
