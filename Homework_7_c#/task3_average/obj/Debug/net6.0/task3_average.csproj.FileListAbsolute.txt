@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\bin\Debug\net6.0\task3_average.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\bin\Debug\net6.0\task3_average.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\bin\Debug\net6.0\task3_average.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\bin\Debug\net6.0\task3_average.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\bin\Debug\net6.0\task3_average.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\task3_average.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\task3_average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\task3_average.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\task3_average.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\task3_average.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\task3_average.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\refint\task3_average.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\task3_average.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\task3_average.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task3_average\obj\Debug\net6.0\ref\task3_average.dll

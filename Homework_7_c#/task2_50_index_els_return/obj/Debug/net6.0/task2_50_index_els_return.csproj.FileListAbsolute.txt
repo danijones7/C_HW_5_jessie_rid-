@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\bin\Debug\net6.0\task2_50_index_els_return.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\bin\Debug\net6.0\task2_50_index_els_return.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\bin\Debug\net6.0\task2_50_index_els_return.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\bin\Debug\net6.0\task2_50_index_els_return.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\bin\Debug\net6.0\task2_50_index_els_return.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\task2_50_index_els_return.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\task2_50_index_els_return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\task2_50_index_els_return.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\task2_50_index_els_return.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\task2_50_index_els_return.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\task2_50_index_els_return.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\refint\task2_50_index_els_return.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\task2_50_index_els_return.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\task2_50_index_els_return.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_7_c#\task2_50_index_els_return\obj\Debug\net6.0\ref\task2_50_index_els_return.dll
