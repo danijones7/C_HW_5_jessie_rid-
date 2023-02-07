@@ -52,25 +52,45 @@ int InputNumber(string str)  // считывает введенный текст
     return number;
 }
 
+double FindAverageInColumn(int [,] matrix, int columnNumber) //- находит  среднее арифметическое для конкретного столбца 
+{
+    double sum = 0;
+double average = 0;
+
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        sum += matrix[i, columnNumber-1];
+    }
+
+    average = sum / matrix.GetLength(0);
+    return average;
+}
 
 int rows = InputNumber("Введите количество строк в массиве: ");
-int columns = InputNumber("Введите количество  столбца в массиве: ");
+int columns = InputNumber("Введите количество  столбцов в массиве: ");
 System.Console.WriteLine();
 int[,] matrix = FillMatrix(rows, columns);
 PrintMatrix(matrix);
 System.Console.WriteLine();
+double average = FindAverageInColumn(matrix, InputNumber("Введите номер столбца для которого требуется посчитать среднее арифметическое"));
+System.Console.WriteLine($"Среднее арифметическое столбца: {Math.Round(average, 2)}");
 
-double sum = 0;
-double average = 0;
-for (int j = 0; j < matrix.GetLength(1); j++)
-{
-    for (int i = 0; i < matrix.GetLength(0); i++)
-    {
-        sum += matrix[i, j];
-    }
 
-    average = sum / matrix.GetLength(0);
-    sum = 0;
-    System.Console.WriteLine("Среднее арифметическое каждого столбца:");
-    System.Console.WriteLine(Math.Round(average, 2));
-}
+
+// Код без функции, который находит среднее арифметическое для каждого столбца поочередно 
+
+// System.Console.WriteLine("Среднее арифметическое каждого столбца:");
+// double sum = 0;
+// double average = 0;
+// for (int j = 0; j < matrix.GetLength(1); j++)
+// {
+//     for (int i = 0; i < matrix.GetLength(0); i++)
+//     {
+//         sum += matrix[i, j];
+//     }
+
+//     average = sum / matrix.GetLength(0);
+//     sum = 0;
+    
+//     System.Console.WriteLine(Math.Round(average, 2));
+// }
