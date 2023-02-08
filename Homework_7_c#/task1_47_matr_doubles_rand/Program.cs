@@ -55,5 +55,6 @@ int InputNumber(string str)  // считывает введенный текст
 
 int rows = InputNumber("Введите количество строк в массиве: ");
 int columns = InputNumber("Введите количество столбцов в массиве: ");
-double[,] array = FillMatrixWithRandoms(rows, columns, 0, 10);
-PrintMatrix(array);
+double[,] array2d = FillMatrixWithRandoms(rows, columns, 0, 10);
+System.Console.WriteLine();
+PrintMatrix(array2d);
