@@ -72,7 +72,7 @@ int rowNum = InputNumber("Введите на какой строке наход
 int colNum = InputNumber("Введите на каком столбце находится элемент в массиве: ");
 if (IndeksCheck(rowNum, colNum, matrix))
 {                                                                                                               // -1 чтобы считал 1ю строку первой, а не нулевой
-    System.Console.WriteLine($"Знаечение элемента, находящегося на {rowNum} строке, в {colNum} столбце: {matrix[rowNum - 1, colNum - 1]}");  
+    System.Console.WriteLine($"Знаечение элемента, находящегося на {rowNum} строке, в {colNum} столбце: {matrix[rowNum - 1, colNum - 1]}");
 }
 else
 {

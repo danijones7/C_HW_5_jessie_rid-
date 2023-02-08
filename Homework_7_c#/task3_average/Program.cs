@@ -66,9 +66,9 @@ int InputNumber(string str)  // считывает введенный текст
 //     return average;
 // }
 
-double [] FindAverageInEachColumn(int[,] matrix)
+double[] FindAverageInEachColumn(int[,] matrix)
 {
-    double [] array = new double[matrix.GetLength(1)];
+    double[] array = new double[matrix.GetLength(1)];
     int arrayindex = 0;
     double sum = 0;
     double average = 0;
@@ -83,12 +83,12 @@ double [] FindAverageInEachColumn(int[,] matrix)
         sum = 0;
 
         array[arrayindex] = Math.Round(average, 2);
-        arrayindex ++;
+        arrayindex++;
     }
     return array;
 }
 
-void PrintArray(double [] arr)  // Выводит на печать заданный или полученный массив 
+void PrintArray(double[] arr)  // Выводит на печать заданный или полученный массив 
 {
     System.Console.WriteLine("[" + string.Join("; ", arr) + "]");
 }
@@ -102,7 +102,7 @@ PrintMatrix(matrix);
 System.Console.WriteLine();
 // double average = FindAverageInColumn(matrix, InputNumber("Введите номер столбца, для которого требуется посчитать среднее арифметическое"));
 // System.Console.WriteLine($"Среднее арифметическое столбца: {Math.Round(average, 2)}");
-double [] ListOfAvg = FindAverageInEachColumn(matrix);
+double[] ListOfAvg = FindAverageInEachColumn(matrix);
 System.Console.Write($"Среднее арифметическое каждого столбца: ");
 PrintArray(ListOfAvg);
 
