@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\bin\Debug\net6.0\task3_58_miltiply_matrix.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\bin\Debug\net6.0\task3_58_miltiply_matrix.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\bin\Debug\net6.0\task3_58_miltiply_matrix.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\bin\Debug\net6.0\task3_58_miltiply_matrix.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\bin\Debug\net6.0\task3_58_miltiply_matrix.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\task3_58_miltiply_matrix.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\task3_58_miltiply_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\task3_58_miltiply_matrix.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\task3_58_miltiply_matrix.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\task3_58_miltiply_matrix.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\task3_58_miltiply_matrix.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\refint\task3_58_miltiply_matrix.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\task3_58_miltiply_matrix.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\task3_58_miltiply_matrix.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task3_58_miltiply_matrix\obj\Debug\net6.0\ref\task3_58_miltiply_matrix.dll

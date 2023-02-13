@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\bin\Debug\net6.0\task1_54_strings_arrgd.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\bin\Debug\net6.0\task1_54_strings_arrgd.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\bin\Debug\net6.0\task1_54_strings_arrgd.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\bin\Debug\net6.0\task1_54_strings_arrgd.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\bin\Debug\net6.0\task1_54_strings_arrgd.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\task1_54_strings_arrgd.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\task1_54_strings_arrgd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\task1_54_strings_arrgd.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\task1_54_strings_arrgd.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\task1_54_strings_arrgd.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\task1_54_strings_arrgd.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\refint\task1_54_strings_arrgd.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\task1_54_strings_arrgd.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\task1_54_strings_arrgd.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task1_54_strings_arrgd\obj\Debug\net6.0\ref\task1_54_strings_arrgd.dll

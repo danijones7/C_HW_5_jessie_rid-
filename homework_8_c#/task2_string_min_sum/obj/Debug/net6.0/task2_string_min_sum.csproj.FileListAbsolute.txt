@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\bin\Debug\net6.0\task2_string_min_sum.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\bin\Debug\net6.0\task2_string_min_sum.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\bin\Debug\net6.0\task2_string_min_sum.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\bin\Debug\net6.0\task2_string_min_sum.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\bin\Debug\net6.0\task2_string_min_sum.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\task2_string_min_sum.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\task2_string_min_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\task2_string_min_sum.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\task2_string_min_sum.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\task2_string_min_sum.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\task2_string_min_sum.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\refint\task2_string_min_sum.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\task2_string_min_sum.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\task2_string_min_sum.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\homework_8_c#\task2_string_min_sum\obj\Debug\net6.0\ref\task2_string_min_sum.dll
