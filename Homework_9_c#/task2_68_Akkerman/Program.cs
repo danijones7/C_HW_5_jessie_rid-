@@ -23,20 +23,21 @@ int InputNumber(string str)  // Функция, которая предлага�
 
 int Akerman(int m, int n)  // Функция Аккермана
 {
-if (m == 0)
-{
-return n+1;
+    if (m == 0)
+    {
+        return n + 1;
+    }
+    if (m > 0 && n == 0)
+    {
+        return Akerman(m - 1, 1);
+    }
+    if (m > 0 && n > 0)
+    {
+        return Akerman(m - 1, Akerman(m, n - 1));
+    }
+    return 0;
 }
-if (m > 0 && n ==0)
-{
-return Akerman(m-1,1);
-}
-if (m > 0 && n > 0)
-{
-return Akerman(m-1, Akerman(m, n -1));
-}
-return 0;
-}
+
 
 
 int M = InputNumber("Введите неотрицательное число M: ");
