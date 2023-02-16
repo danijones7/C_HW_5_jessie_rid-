@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\bin\Debug\net6.0\task1_66_ot_M_do_N.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\bin\Debug\net6.0\task1_66_ot_M_do_N.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\bin\Debug\net6.0\task1_66_ot_M_do_N.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\bin\Debug\net6.0\task1_66_ot_M_do_N.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\bin\Debug\net6.0\task1_66_ot_M_do_N.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\task1_66_ot_M_do_N.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\task1_66_ot_M_do_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\task1_66_ot_M_do_N.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\task1_66_ot_M_do_N.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\task1_66_ot_M_do_N.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\task1_66_ot_M_do_N.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\refint\task1_66_ot_M_do_N.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\task1_66_ot_M_do_N.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\task1_66_ot_M_do_N.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task1_66_ot_M_do_N\obj\Debug\net6.0\ref\task1_66_ot_M_do_N.dll

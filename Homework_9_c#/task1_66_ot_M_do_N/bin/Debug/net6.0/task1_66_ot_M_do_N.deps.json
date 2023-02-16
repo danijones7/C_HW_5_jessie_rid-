@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task1_66_ot_M_do_N/1.0.0": {
+        "runtime": {
+          "task1_66_ot_M_do_N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task1_66_ot_M_do_N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

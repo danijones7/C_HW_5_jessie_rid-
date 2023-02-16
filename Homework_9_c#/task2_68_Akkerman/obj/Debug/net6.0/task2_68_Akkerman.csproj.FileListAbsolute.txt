@@ -1,0 +1,15 @@
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\bin\Debug\net6.0\task2_68_Akkerman.exe
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\bin\Debug\net6.0\task2_68_Akkerman.deps.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\bin\Debug\net6.0\task2_68_Akkerman.runtimeconfig.json
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\bin\Debug\net6.0\task2_68_Akkerman.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\bin\Debug\net6.0\task2_68_Akkerman.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\task2_68_Akkerman.csproj.AssemblyReference.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\task2_68_Akkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\task2_68_Akkerman.AssemblyInfoInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\task2_68_Akkerman.AssemblyInfo.cs
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\task2_68_Akkerman.csproj.CoreCompileInputs.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\task2_68_Akkerman.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\refint\task2_68_Akkerman.dll
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\task2_68_Akkerman.pdb
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\task2_68_Akkerman.genruntimeconfig.cache
+C:\Users\Sowic\Desktop\Jessie\GB\3. C sharp\Homework_c#\Homework_9_c#\task2_68_Akkerman\obj\Debug\net6.0\ref\task2_68_Akkerman.dll
